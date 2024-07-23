@@ -12,19 +12,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348108395270"
+global.ownernomer = "923255472206"
 global.ownername = "🕳️ Phantom+Hacker 🕳️"
 global.ytname = "YT: Phantom-hacks01"
 global.socialm = "GitHub: Passkey-md"
 global.location = "India, Mizoram, Aizawl"
 
-global.ownernumber = '2348108395270'  //creator number
+global.ownernumber = '923255472206'  //creator number
 global.ownername = '🕳️ Phantom+Hacker 🕳️' //owner name
 global.botname = 'Phantom-bug-bot' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = '🦄DGXeon\n\nContact: +2348108395270'
+global.author = '🦄DGXeon\n\nContact: +923255472206'
 
 //console view/theme
 global.themeemoji = '🪀'
